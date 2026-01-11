@@ -62,4 +62,4 @@ def convert_currency(message: telebot.types.Message):
 
 if __name__ == "__main__":
     print("Бот запущен...")
-    bot.pollаing(none_stop=True)
+    bot.polling(none_stop=True)
